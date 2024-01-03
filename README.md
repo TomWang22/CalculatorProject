@@ -1,10 +1,10 @@
 # CalculatorProject
 
-##Overview
+Overview
 
 This project implements a console-based calculator in Java that performs metric to English unit conversions and vice versa. The calculator supports conversions for temperature (Fahrenheit to Celsius and vice versa) and length (inches to centimeters and vice versa). Users can interact with the calculator through keyboard input to select the desired conversion.
 
-##Features
+Features
 
 Fahrenheit to Celsius conversion
 Celsius to Fahrenheit conversion
@@ -17,7 +17,7 @@ Prerequisites
 Java Development Kit (JDK) installed
 Java-compatible development environment (e.g., IntelliJ IDEA, Eclipse)
 
-##How to Run (with examples) 
+How to Run (with examples) 
 
 Open the project in your Java development environment.
 Compile and run the CalculatorMain class.
